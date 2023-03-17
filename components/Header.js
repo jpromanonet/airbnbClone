@@ -8,6 +8,9 @@ function Header() {
         
         {/* Left */}
         <div></div>
+
+        {/* Middle */}
+        <div></div>
     
     </>
   );
