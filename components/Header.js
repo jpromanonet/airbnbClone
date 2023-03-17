@@ -11,6 +11,9 @@ function Header() {
 
         {/* Middle */}
         <div></div>
+
+        {/* Right */}
+        <div></div>
     
     </>
   );
