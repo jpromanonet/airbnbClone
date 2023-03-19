@@ -3,7 +3,7 @@ import Image from "next/image"
 
 function Header() {
   return (
-    <header>
+    <>
         
         {/* Left */}
         <div>
@@ -16,7 +16,7 @@ function Header() {
         {/* Right */}
         <div></div>
     
-    </header>
+    </>
   );
 }
 
