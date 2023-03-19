@@ -10,6 +10,7 @@ function Header() {
             <Image
                 src="https://links.papareact.com/qd3"
                 layout='fill'
+                objectFit='contain'
             ></Image>
         </div>
 
