@@ -1,11 +1,14 @@
 import React from 'react'
+import Image from "next/image"
 
 function Header() {
   return (
-    <>
+    <Header>
         
         {/* Left */}
-        <div></div>
+        <div>
+            <Image></Image>
+        </div>
 
         {/* Middle */}
         <div></div>
@@ -13,7 +16,7 @@ function Header() {
         {/* Right */}
         <div></div>
     
-    </>
+    </Header>
   );
 }
 
