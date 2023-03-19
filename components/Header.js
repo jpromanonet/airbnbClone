@@ -7,7 +7,10 @@ function Header() {
         
         {/* Left */}
         <div>
-            <Image></Image>
+            <Image
+                src="https://links.papareact.com/qd3"
+                layout='fill'
+            ></Image>
         </div>
 
         {/* Middle */}
